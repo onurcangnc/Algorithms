@@ -1,3 +1,11 @@
+    _      _        ____    ___    ____    ___   _____   _   _   __  __   ____  
+   / \    | |      / ___|  / _ \  |  _ \  |_ _| |_   _| | | | | |  \/  | / ___| 
+  / _ \   | |     | |  _  | | | | | |_) |  | |    | |   | |_| | | |\/| | \___ \ 
+ / ___ \  | |___  | |_| | | |_| | |  _ <   | |    | |   |  _  | | |  | |  ___) |
+/_/   \_\ |_____|  \____|  \___/  |_| \_\ |___|   |_|   |_| |_| |_|  |_| |____/ 
+
+
+
 # Overview
 
 Welcome to Project Main! This repository contains implementations of various algorithms including `FrequencyCount`, `FrequencyCountArrays`, `Swap`, and `MultiplicationMatrices`.
