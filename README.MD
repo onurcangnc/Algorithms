@@ -1,6 +1,6 @@
-# Project Main
+# Overview
 
-Welcome to Project Main! This repository contains implementations of various algorithms including `frequencyCount`, `frequencyCountArrays`, `Swap`, and `MultiplicationMatrices`.
+Welcome to Project Main! This repository contains implementations of various algorithms including `FrequencyCount`, `FrequencyCountArrays`, `Swap`, and `MultiplicationMatrices`.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -15,7 +15,8 @@ Welcome to Project Main! This repository contains implementations of various alg
 
 ---
 
-## Overview
+## Project Main
+
 Project Main is a collection of algorithms implemented in various programming languages. These algorithms are aimed at solving common problems efficiently.
 
 ---
@@ -52,4 +53,3 @@ Contributions are welcome! If you have any improvements or new algorithms to add
 
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the terms of the license.
-
