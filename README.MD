@@ -24,19 +24,19 @@ Project Main is a collection of algorithms implemented in various programming la
 
 ### Frequency Count
 The `frequencyCount` algorithm calculates the frequency of elements in a given list or array. 
-- [Frequency Count Branch](../../tree/frequencyCount)
+- [Frequency Count Branch](../../tree/FrequencyCount)
 
 ### Frequency Count Arrays
 `frequencyCountArrays` extends the frequency counting concept to arrays, providing a comprehensive analysis of element occurrences.
-- [Frequency Count Arrays Branch](../../tree/frequencyCountArrays)
+- [Frequency Count Arrays Branch](../../tree/FrequencyCountArrays)
 
 ### Swap
 The `Swap` algorithm swaps the values of two variables, typically used in sorting algorithms and various other scenarios.
-- [Swap Branch](../../tree/swap)
+- [Swap Branch](../../tree/Swap)
 
 ### Multiplication Matrices
 `MultiplicationMatrices` provides efficient methods for multiplying matrices, a fundamental operation in linear algebra and various computational tasks.
-- [Multiplication Matrices Branch](../../tree/multiplicationMatrices)
+- [Multiplication Matrices Branch](../../tree/MultiplicationMatrices)
 
 ---
 
