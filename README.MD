@@ -15,6 +15,8 @@ Welcome to Project Main! This repository contains implementations of various alg
   - [Frequency Count Arrays](#frequency-count-arrays)
   - [Swap](#swap)
   - [Multiplication Matrices](#multiplication-matrices)
+  - [Divide and Conquer](#Divide_and_Conquer)
+  - [Sorting](#Sorting)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -23,7 +25,7 @@ Welcome to Project Main! This repository contains implementations of various alg
 
 ## Project Main 🚀
 
-Project Main is a collection of algorithms implemented in various programming languages. These algorithms are aimed at solving common problems efficiently.
+Project Main is a collection of algorithms implemented in Python programming language. These algorithms are aimed at solving common problems efficiently.
 
 ---
 
@@ -44,6 +46,14 @@ The `Swap` algorithm swaps the values of two variables, typically used in sortin
 ### Multiplication Matrices ✖️
 `MultiplicationMatrices` provides efficient methods for multiplying matrices, a fundamental operation in linear algebra and various computational tasks.
 - [Multiplication Matrices Branch](../../tree/MultiplicationMatrices)
+
+### Divide and Conquer 🛡️
+Divide and Conquer algorithms break a problem into smaller subproblems, solve them independently, and then combine their solutions to solve the original problem efficiently.
+- [Divide and Conquer Branch](../../tree/DivideAndConquer)
+
+### Sorting 🔄
+Sorting algorithms arrange a collection of elements in a specific order, such as numerical or lexicographical order, which facilitates easier searching and accessing of elements.
+- [Sorting Branch](../../tree/Sorting) 
 
 ---
 
